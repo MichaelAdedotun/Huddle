@@ -2,7 +2,7 @@
     <section class=" overflow-y-hidden bg-single-mobile-bg bg-no-repeat object-cover bg-violet-600 md:bg-single-desktop-bg lg:bg-single-desktop-bg , px-8 py-7 md:py-10 md:px-14 lg:py-10 lg:px-20">
       <nav class="flex justify-between items-center mb-10">
         <div>
-          <a href=""><img class="w-28 md:w-36 lg:w-44" src="src/assets/Single-intro-images/logo.svg" alt="huddle logo"></a>
+          <a href=""><img class="w-28 md:w-36 lg:w-44" src="../../../src/assets/Single-intro-images/logo.svg" alt="huddle logo"></a>
         </div>
 
         <h3 class="bg-white text-xs font-semibold text-Very-Dark-Cyan rounded-3xl py-1 px-4 cursor-pointer hover:opacity-80 md:text-sm md:py-2 md:px-7 lg:px-10 "><router-link to="/">Back</router-link></h3>
@@ -10,7 +10,7 @@
 
       <section class="md:flex md:mt-20 lg:flex">
         <div class="mt-16 grid place-items-center w-full md:w-2/3 md:mt-5 lg:mt-5">
-          <img class="w-full md:w-full" src="src/assets/Single-intro-images/illustration-mockups.svg" alt="mockups">
+          <img class="w-full md:w-full" src="../../../src/assets/Single-intro-images/illustration-mockups.svg" alt="mockups">
         </div>
 
         <div class="text-white mt-16 text-center md:px-20 md:text-start lg:text-start md:w-2/3">
